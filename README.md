@@ -1,4 +1,4 @@
-# Infdev-20100630-1-WebGL
+# Infdev
 This project aims to be a 1:1 replica of Minecraft Infdev 20100630-1 ported to the browser using WebGL and TeaVM.
 
 ## STILL IN TESTING!
